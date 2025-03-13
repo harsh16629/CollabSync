@@ -3,10 +3,10 @@
 A real-time collaborative text editor built with React, WebSockets (Node.js), and Firebase Firestore. This project allows multiple users to edit text simultaneously, with real-time updates using WebSockets and persistent storage in Firestore.
 
 ## 🚀 Features
-✅ Real-time collaboration – Users can edit text simultaneously.
-✅ WebSockets for instant updates – Powered by a Node.js WebSocket server.
-✅ Firebase Firestore for persistence – Saves documents even after a page refresh.
-✅ React frontend – A clean and interactive user interface.
+- ✅ Real-time collaboration – Users can edit text simultaneously.
+- ✅ WebSockets for instant updates – Powered by a Node.js WebSocket server.
+- ✅ Firebase Firestore for persistence – Saves documents even after a page refresh.
+- ✅ React frontend – A clean and interactive user interface.
 
 ## ⚡ Installation & Setup
 1.  Clone the Repository
